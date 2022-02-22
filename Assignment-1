@@ -1,4 +1,4 @@
-[21/02, 8:23 pm] Rami Reddy: n=int(input('enter number'))
+n=int(input('enter number'))
 
 ascii_value=97
 
